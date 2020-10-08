@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="KiloBolt:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8755d6c6-e13f-4b96-9bca-b011a2e0057c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hUEV92fzz5YixWEkC9MKyWUvK6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Calculator" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\doguk\IdeaProjects\KiloBolt\src" />
+      <recent name="C:\Users\doguk\IdeaProjects\KiloBolt\src\kilobolt\res" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="kilobolt" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\doguk\IdeaProjects\KiloBolt\src\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.KiloBolt.jar">
+    <configuration name="Launcher (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test_kilobolt.Launcher" />
+      <module name="Chrome Dinosour Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_kilobolt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dinosour_game.Launcher" />
+      <module name="Chrome Dinosour Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dinosour_game.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kilobolt.Test" />
+      <module name="Chrome Dinosour Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dinosour_game.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kilobolt.test" />
+      <module name="Chrome Dinosour Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dinosour_game.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KiloBolt.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/KiloBolt_jar/KiloBolt.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.KiloBolt.jar" />
+        <item itemvalue="Application.Launcher" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Launcher (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8755d6c6-e13f-4b96-9bca-b011a2e0057c" name="Default Changelist" comment="" />
+      <created>1600057292013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600057292013</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600283971294">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600283971294" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1600405556202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1600405556202" />
+    <state x="413" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600406316007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1600406316007" />
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601101280944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1601101280944" />
+    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600324318115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1600324318115" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600405233949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600405233949" />
+    <state x="463" y="90" key="FileChooserDialogImpl" timestamp="1600779569477">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="90" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600779569477" />
+    <state width="1323" height="268" key="GridCell.Tab.0.bottom" timestamp="1600779537696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="268" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600779537696" />
+    <state width="1323" height="268" key="GridCell.Tab.0.center" timestamp="1600779537696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="268" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600779537696" />
+    <state width="1323" height="268" key="GridCell.Tab.0.left" timestamp="1600779537696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="268" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600779537696" />
+    <state width="1323" height="268" key="GridCell.Tab.0.right" timestamp="1600779537696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="268" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600779537696" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1600348811771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600348811771" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1600348811771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600348811771" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1600348811771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600348811771" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1600348811771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600348811771" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1600779234660">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600779234660" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1600779564770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1600779564770" />
+    <state x="314" y="61" width="737" height="606" key="find.popup" timestamp="1600177241021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="61" width="737" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1600177241021" />
+    <state x="65" y="0" key="new project wizard" timestamp="1600434230056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1600434230056" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1600247421505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1600247421505" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600434608077">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1600434608077" />
+  </component>
+</project>

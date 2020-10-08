@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KiloBolt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KiloBolt_jar</output-path>
+    <root id="archive" name="KiloBolt.jar">
+      <element id="module-output" name="Chrome Dinosour Game" />
+    </root>
+  </artifact>
+</component>
